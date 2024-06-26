@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NapatK-PAT
-- 👀 I’m interested in Technology
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning R PYTHON SQL TABLEAU POWER BI
 - ⚡ Fun fact: Just started Coding yesterday 
 
